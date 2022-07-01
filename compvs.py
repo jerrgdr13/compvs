@@ -3,4 +3,4 @@ from selenium import webdriver
 PATH= "/Users/jguerrad/Documents/Jerry/Code/deps/chromedriver"
 driver = webdriver.Chrome(PATH)
 
-drvier.get("https://jguerrad.akamaidemos.com/")
+#drvier.get("https://jguerrad.akamaidemos.com/")
